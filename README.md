@@ -26,7 +26,7 @@ works on any of the following operating systems:
 
 
 # Warning
-$\color{Orange}{We\ are\ not\ responsible\ for\ any\ misuse\ or\ damage\ caused\ by\ this\ program. Use\ this\ tool\ at\ your\ own\ risk!}$
+$\color{YellowOrange}{We\ are\ not\ responsible\ for\ any\ misuse\ or\ damage\ caused\ by\ this\ program. Use\ this\ tool\ at\ your\ own\ risk!}$
 
 
 ❤️ Support me:
